@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Petre
+<h1 align="center"> Hi there 👋, I'm Petre </h1>
 
-## Front-End Developer - Learning Full-Stack
+<h2 align="center"> Front-End Developer - Learning Full-Stack </h2>
 
 
 #### - 🌱 I’m currently learning Express.js
