@@ -54,12 +54,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/Petre4488/Petre4488/blob/main/snake.yml" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Petre4488/count.svg?"  />
 </div>
